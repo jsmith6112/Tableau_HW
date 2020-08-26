@@ -1,0 +1,14 @@
+.carousel-item {
+    max-height: 100px;
+    min-width: 100%;
+  }
+
+  .body {
+    background-color: black;
+    text-decoration-color: wheat;
+  }
+
+
+  .tailcolor{
+    background-color: rgba(222, 240, 240, 0.924);
+  }
